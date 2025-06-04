@@ -1,6 +1,6 @@
 --[[
     Fatality-Dark Interface
-    Author: 4Zen
+    Author: 4Zen-real
     License: MIT
     Github: https://github.com/4Zen-real/UI-Library
 --]]

@@ -1,9 +1,8 @@
 --[[
-    		Fatality-Dark Interface
-
-    Author: 4lpaca
+    Fatality-Dark Interface
+    Author: 4Zen
     License: MIT
-    Github: https://github.com/4lpaca-pin/Fatality
+    Github: https://github.com/4Zen-real/Fatality
 --]]
 
 -- Export Types --
